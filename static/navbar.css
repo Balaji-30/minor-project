@@ -12,11 +12,3 @@
     padding: 0px 15px !important;
 
 }
-
-@media screen and (min-width:992px) {
-    
-    .navbar-nav  a:hover{
-        transform: rotate(6deg);
-        transition: all 0.3s ease-out;
-    }
-}
